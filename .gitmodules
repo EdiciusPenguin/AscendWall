@@ -1,0 +1,9 @@
+[submodule "UnityApp-Ascend"]
+	path = UnityApp-Ascend
+	url = git@github.com:EdiciusPenguin/UnityApp-Ascend.git
+[submodule "WebSocket-Ascend"]
+	path = WebSocket-Ascend
+	url = git@github.com:EdiciusPenguin/WebSocket-Ascend.git
+[submodule "TD-Ascend"]
+	path = TD-Ascend
+	url = git@github.com:EdiciusPenguin/TD-Ascend.git
