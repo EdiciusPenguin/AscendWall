@@ -7,3 +7,6 @@
 [submodule "TD-Ascend"]
 	path = TD-Ascend
 	url = git@github.com:EdiciusPenguin/TD-Ascend.git
+[submodule "Bronbestanden-Ascend"]
+	path = Bronbestanden-Ascend
+	url = git@github.com:EdiciusPenguin/Bronbestanden-Ascend.git
